@@ -11,6 +11,8 @@ Discord: https://discord.gg/uPnbsnGAZ → join the #stones-projects channel
 
 ## Limitations
 
+ FW 9.00 is the minimum FW needed
+ 
 Does not work on low FW consoles. If your system settings does not have a e "Beep and Light" menu option. This wont work for you. 
 
 ## How Beeper and LED Control Works
