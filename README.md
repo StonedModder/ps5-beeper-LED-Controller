@@ -4,6 +4,8 @@ Research into the PS5's internal hardware beeper and LED brightness controls via
 
 I did this research hoping I could finally mute my low FW PS5. I was too hopeful. 
 
+Settings changed via this GUI will persist between reboots
+
 <img width="1623" height="834" alt="image" src="https://github.com/user-attachments/assets/cf0adb64-cd5b-4b54-8d53-5f4ef0cae68d" />
 
 Discord: https://discord.gg/uPnbsnGAZ → join the #stones-projects channel
